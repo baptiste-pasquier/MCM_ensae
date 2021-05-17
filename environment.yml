@@ -1,0 +1,19 @@
+name: mcm
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - python
+  - jupyterlab
+  - jupyterlab-git
+  - numpy
+  - pandas
+  - pip
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - tqdm
+  - ipywidgets
+  - smt
+  - pip:
+    - p_tqdm
