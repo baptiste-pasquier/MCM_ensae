@@ -1,4 +1,7 @@
 # MCM_ensae
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/baptiste-pasquier/MCM_ensae/HEAD)
+
 <img src="img/icon.png" alt="Icon" height="200"/> 
 
 Simulation d'une file d'attente et probabilité que le nombre de clients dans la file dépasse un certain seuil.
